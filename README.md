@@ -1,7 +1,7 @@
 ## Olá!👋 Eu sou o Gabriel
 
 - 👨‍💻 Sou estudante de Ciência da computação
-- 🔭 Estou em busca da minha primeira oportunidade no mercado de trabalho
+- 🔭 Estou em busca da minha primeira oportunidade de trabalho
 - 🌱 Estudando Python
 
 <div>  
