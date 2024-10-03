@@ -2,11 +2,12 @@
 
 - 👨‍💻 Sou estudante de Ciência da computação
 - 🔭 Estou em busca da minha primeira oportunidade de trabalho
-- 🌱 Estudando Python
+- 🌱 Estudando JavaScript
 
 <div>
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-JavaScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
 <div style="display: inline_block"><br>  
